@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mylocationbutton_toggle" type="id" />
+    <item name="mylocationlayer_toggle" type="id" />
+    <item name="zoom_buttons_toggle" type="id" />
+    <item name="compass_toggle" type="id" />
+    <item name="scroll_toggle" type="id" />
+    <item name="zoom_gestures_toggle" type="id" />
+    <item name="tilt_toggle" type="id" />
+    <item name="rotate_toggle" type="id" />
+</resources>

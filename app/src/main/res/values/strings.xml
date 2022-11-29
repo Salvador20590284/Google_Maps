@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tutorial Google Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map_not_ready" />
+</resources>
